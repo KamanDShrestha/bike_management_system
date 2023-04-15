@@ -1,0 +1,12 @@
+Classic 350,Royal Enfield,Gun Metal Grey,7,4500
+KTM RC 200,Kraftfahrzeuge Trunkenpolz Mattighofen(KTM),Orange Black,20,5300
+Brutale 800,Meccanica Verghera Agusta(MV Agusta),White Red,23,2100
+Dirt Bike 125,Adventure Wheels,Green White,25,4000
+Fazer-25,Yamaha Motors Co.Ltd (YMC),Black,30,2900
+Honda Activa 5G,Honda Motorcycle & Scooter India (Pvt) Ltd,Yellow,29,1200
+Aprilia SR 150,Piaggio Vehicles Pvt Ltd,Red,20,1500
+Ducati Multistrada,Ducati Motors,White Red,12,4590
+Bajaj Avenger,Bajaj Auto Limited,Blue,20,5600
+Kawasaki 240,Kawasaki Heavy Industries,White,30,2500
+Kawasaki 390,Kawasaki Heavy Industries,Yellow White,15,3900
+Bajaj Avenger 340,Bajaj Auto Limited,Red White,25,5000
